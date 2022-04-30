@@ -7,6 +7,14 @@ This component is called swipe-select because you can swipe left-to-right and is
 This component is built with React.js and Tailwind
 
 
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+
 ## Demo
 
 https://62699493b8d5132941a50b35--joyful-torte-bbed12.netlify.app/
